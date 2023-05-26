@@ -29,10 +29,6 @@ We put an example dataset (part of the AIOps18 dataset due to the space limit) i
 ## Requirements
 
 
-## Environment
-We support python3.x $\geq$ 3.7. The environment can be built by:
-```$ pip install -r requirements.txt```
-
 ## Running
 For the prediction phase, run:
 ```$ cd src && python predict.py```
