@@ -10,14 +10,14 @@ The following figure shows the overview of our framework RTAnomaly.
 
 ![RTAnomaly](https://github.com/ASE-Submission/RTAnomaly/assets/131580646/e6a21e32-d5bf-49c4-9e48-18f124f4083e)
 
-## PU Learning
-![PU](https://github.com/ASE-Submission/RTAnomaly/assets/131580646/5d25a172-4f02-4423-8c5f-f5c54d99e0c9)
-
 ## Data
-We only put one sample of our industrial dataset here. A subset of SMD is also uploaded. However, upon acceptance of this work, we will release all datasets used in our study, including raw data and all labels, and any other relevant materials necessary for replication and analysis of our findings.
+
+We only put one sample of our industrial dataset and SMD dataset here (due to limit of space). However, upon acceptance of this work, we will release all datasets used in our study, including raw data and all labels, and any other relevant materials necessary for replication and analysis of our findings.
 
 ## Requirements
 
+Python $\geq$ 3.8 is needed. Besides, the environment can be built by:
+```$ pip install -r requirements.txt```
 
 ## Running
 Cd to the working directory and simply run:
