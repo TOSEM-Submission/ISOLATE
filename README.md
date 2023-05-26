@@ -1,11 +1,8 @@
 # RTAnomaly
-
 ![](https://img.shields.io/badge/version-1.0-blue.svg) 
 ![](https://img.shields.io/badge/language-python-orange.svg)
 
 Here is the repository for ASE submission "Correlation-Aware Performance Issue Identification in Cloud Service Systems". 
-
-## Architecture
 
 ## Overview
 The following figure shows the overview of our framework RTAnomaly.
