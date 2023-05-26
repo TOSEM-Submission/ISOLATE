@@ -9,16 +9,14 @@ After that, you can directly extract the features using our calculation code and
 
 ## Architecture
 
-#### Overview
+## Overview
 ![RTAnomaly](https://github.com/ASE-Submission/RTAnomaly/assets/131580646/e6a21e32-d5bf-49c4-9e48-18f124f4083e)
 
-#### PU Learning
+## PU Learning
 ![PU](https://github.com/ASE-Submission/RTAnomaly/assets/131580646/5d25a172-4f02-4423-8c5f-f5c54d99e0c9)
 
 ## Data
-The data should be stored in csv files with the first column being ``timestamp'' and the last column being ``label''. If labels are not avaliable, it can be all zeros.
-
-We put an example dataset (part of the AIOps18 dataset due to the space limit) in the ``data'' director.
+We only put one sample of our industrial dataset here. A subset of SMD is also uploaded. However, upon acceptance of this work, we will release all datasets used in our study, including raw data and all labels, and any other relevant materials necessary for replication and analysis of our findings.
 
 ## Requirements
 
