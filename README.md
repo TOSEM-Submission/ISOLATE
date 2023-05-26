@@ -10,12 +10,8 @@ After that, you can directly extract the features using our calculation code and
 ## Architecture
 
 #### Overview
-
-![Maat 001](https://user-images.githubusercontent.com/112700133/216756546-635088cd-c61b-4fa7-88e6-6979eb8df4c3.jpeg)
-
-#### Diffusion Model
-
-![Maat 002](https://user-images.githubusercontent.com/112700133/216756574-f1f6d2a4-93ab-4fa2-a5be-106e5f9922d8.jpeg)
+![RTAnomaly](https://github.com/ASE-Submission/RTAnomaly/assets/131580646/e6a21e32-d5bf-49c4-9e48-18f124f4083e)
+![PU](https://github.com/ASE-Submission/RTAnomaly/assets/131580646/5d25a172-4f02-4423-8c5f-f5c54d99e0c9)
 
 #### Model M
 
