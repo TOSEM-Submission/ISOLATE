@@ -20,5 +20,5 @@ Python $\geq$ 3.8 is needed. Besides, the environment can be built by:
 ```pip install -r requirements.txt```
 
 ## Run the code
-Cd to the working directory and simply run:
+Cd to the current working directory and simply run:
 ```python train.py```
