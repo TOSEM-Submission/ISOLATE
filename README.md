@@ -10,7 +10,7 @@ The following figure shows the overview of our framework RTAnomaly, an automated
 
 ![RTAnomaly](https://github.com/ASE-Submission/RTAnomaly/assets/131580646/e6a21e32-d5bf-49c4-9e48-18f124f4083e)
 
-## Data
+## Datasets
 
 We only put one sample of our industrial dataset and SMD dataset here (due to limit of space). However, upon acceptance of this work, we will release all datasets used in our study, including raw data and all labels, and any other relevant materials necessary for replication and analysis of our findings.
 
