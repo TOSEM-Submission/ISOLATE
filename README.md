@@ -17,7 +17,7 @@ We only put one sample of our industrial dataset and SMD dataset here (due to li
 ## Requirements
 
 Python $\geq$ 3.8 is needed. Besides, the environment can be built by:
-```$ pip install -r requirements.txt```
+```pip install -r requirements.txt```
 
 ## Running
 Cd to the working directory and simply run:
