@@ -26,23 +26,8 @@ The data should be stored in csv files with the first column being ``timestamp''
 
 We put an example dataset (part of the AIOps18 dataset due to the space limit) in the ``data'' director.
 
-## Tree
-```
-.
-├── dataload.py
-├── detect.py
-├── extract_feat.py
-├── model
-│   ├── PixelCNN.py
-│   ├── detection.py
-│   ├── diffusion.py
-│   ├── network.py
-│   ├── prediction.py
-│   └── util.py
-├── predict.py
-├── requirements.txt
-└── util.py
-```
+## Requirements
+
 
 ## Environment
 We support python3.x $\geq$ 3.7. The environment can be built by:
