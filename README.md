@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/version-1.0-blue.svg) 
 ![](https://img.shields.io/badge/language-python-orange.svg)
 
-Here is the repository for ASE submission "Correlation-Aware Performance Issue Identification in Cloud Service Systems". 
+Here is the repository for the ICSE24 submission "Correlation-Aware Performance Issue Identification in Cloud Service Systems". 
 
 ## Overview
 
@@ -12,7 +12,7 @@ The following figure shows the overview of our framework RTAnomaly, an automated
 
 ## Datasets
 
-We only put one sample of our industrial dataset and SMD dataset here (due to limit of space). However, upon acceptance of this work, we will release all datasets used in our study, including raw data and all labels, and any other relevant materials necessary for replication and analysis of our findings.
+We only put one sample of our industrial dataset and SMD dataset here (due to the limit of space). However, upon acceptance of this work, we will release all datasets used in our study, including raw data and all labels, and any other relevant materials necessary for replication and analysis of our findings.
 
 ## Requirements
 
