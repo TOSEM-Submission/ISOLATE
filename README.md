@@ -22,3 +22,6 @@ Python $\geq$ 3.8 is needed. Besides, the environment can be built by:
 ## Run the code
 Cd to the current working directory and simply run:
 ```python train.py```
+
+If you want to localize the anomalous metrics, please run:
+```python train_rca.py```
